@@ -1,0 +1,7 @@
+- Download dataset
+- Exploraory Data Analysis
+- Data preprocessing
+- Shape function
+- Size of shapes
+- Defining models
+- 
